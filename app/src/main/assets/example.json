@@ -1,7 +1,6 @@
 [
   {
-      name
-  },{
-
+    "name":"TextView 演示",
+    "clazz": "com.tulies.androidstu.ui.example.ExampleTextView"
   }
 ]

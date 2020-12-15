@@ -4,7 +4,7 @@ xmlns:app="http://schemas.android.com/apk/res-auto"
 xmlns:tools="http://schemas.android.com/tools"
 android:layout_width="match_parent"
 android:layout_height="match_parent"
-tools:context=".example.ExampleTextView">
+tools:context=".ui.example.ExampleTextView">
 
 <com.google.android.material.appbar.AppBarLayout
     android:layout_width="match_parent"
@@ -15,7 +15,7 @@ tools:context=".example.ExampleTextView">
         android:layout_width="match_parent"
         android:layout_height="?attr/actionBarSize"
         android:background="?attr/colorPrimary"
-        app:navigationIcon="@mipmap/ic_launcher"
+        app:navigationIcon="@drawable/icon_return"
         app:popupTheme="@style/AppTheme.PopupOverlay" />
 
 </com.google.android.material.appbar.AppBarLayout>

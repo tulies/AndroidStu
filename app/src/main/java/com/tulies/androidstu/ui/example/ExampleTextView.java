@@ -1,4 +1,4 @@
-package com.tulies.androidstu.example;
+package com.tulies.androidstu.ui.example;
 
 import android.os.Bundle;
 
